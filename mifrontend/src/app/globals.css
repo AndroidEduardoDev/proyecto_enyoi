@@ -1,0 +1,23 @@
+html {
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(180deg, #0087A5 0%, #001516 93.23%);
+}
+
+body {
+    background-color: transparent !important;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+div {
+    background-color: transparent !important;
+}
+
+a {
+    background-color: white;
+}
+
